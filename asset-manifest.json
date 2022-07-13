@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reverse-and-sum-of-string-in-react/static/css/main.9f1b55a8.css",
+    "main.js": "/reverse-and-sum-of-string-in-react/static/js/main.834b2c17.js",
+    "index.html": "/reverse-and-sum-of-string-in-react/index.html",
+    "main.9f1b55a8.css.map": "/reverse-and-sum-of-string-in-react/static/css/main.9f1b55a8.css.map",
+    "main.834b2c17.js.map": "/reverse-and-sum-of-string-in-react/static/js/main.834b2c17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f1b55a8.css",
+    "static/js/main.834b2c17.js"
+  ]
+}
